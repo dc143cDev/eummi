@@ -30,7 +30,7 @@ class HomeView extends GetView<HomeController> {
       // ),
       body: Center(
         child: Text(
-          'HomeView is working',
+          'Happy new year 2023',
           style: TextStyle(fontSize: 20),
         ),
       ),
